@@ -175,7 +175,3 @@ python write_novel.py
 - **社区**：欢迎 Fork、Pull Request、Issue 共同完善。  
 
 祝你玩得开心，写出好看的长篇小说 🎉🚀
-
---- 
-
-*本文档即 **README.md**，复制粘贴到项目根目录即可使用。*
